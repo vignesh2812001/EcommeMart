@@ -7,7 +7,7 @@ Getting Started
 **cd client**
 
 2) Install React and necessary dependencies:
-**npx create-react-app
+**npx create-react-app . 
 npm install react-router-dom fontawesome axios
 npm start**
 
