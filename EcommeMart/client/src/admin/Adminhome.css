@@ -1,13 +1,18 @@
 
-.admin-header {
+.admin-header5 {
     margin: 0rem;
     padding: 0rem;
+  margin-top: 0rem;
+    box-shadow: 5px 5px 5px gray;
+   
 }
 
-.admin-ul {
+.admin-ul5 {
     display: 100%;
     background: rgb(245, 245, 245);
     padding: 1rem;
+
+    background-color: black;
 }
 
 .admin-li {
@@ -20,7 +25,7 @@
 
  .button2 {
     border: none;
-    background-color: gray;
+    background-color: orange    ;
     padding: 0.5rem 0.5rem ;
     color: white;
     border-radius: 5px;
