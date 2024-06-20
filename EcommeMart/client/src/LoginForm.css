@@ -1,0 +1,72 @@
+.login-form {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.login-form-title {
+    margin-bottom: 1rem;
+}
+
+.login-form-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form-input {
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.login-form-pass {
+    display: inline-flex;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.login-form-password {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    flex-grow: 1;
+}
+
+.login-form-visibleIcon {
+    margin-left: 1rem;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.login-form-options {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.login-form-remember {
+    display: flex;
+    align-items: center;
+}
+
+.login-form-checkbox {
+    margin-right: 0.5rem;
+}
+
+.login-form-forgetPass {
+    font-size: 15px;
+    color: limegreen;
+    text-decoration: none;
+}
+
+.login-form-button {
+    padding: 0.5rem 1rem;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

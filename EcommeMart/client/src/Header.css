@@ -1,0 +1,48 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: black;
+}
+
+.header-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+.header-logo:hover {
+    color: lightgray;
+}
+
+.header-nav {
+    margin-right: 600px;
+}
+
+.header-nav-list {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    cursor: pointer;
+    color: white;
+}
+
+.header-nav-item:hover {
+    color: lightgray;
+}
+
+.header-login-container {
+    display: flex;
+    align-items: center;
+}
+
+.header-login-button {
+    padding: 0.5rem 1rem;
+    background-color:  orange;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,61 @@
+.product-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem;
+    
+}
+
+.table-header {
+    background-color: #f0f0f0;
+    text-align: left;
+    padding: 10px;
+    padding: 1.5rem;
+    font-family: cursive;
+}
+
+.table-row:nth-child(even) {
+    background-color: #f2f2f2;
+    
+}
+
+.td{
+    padding: 1.5rem;
+    margin: 1rem;
+}
+
+.table-row:hover {
+    background-color: #ddd;
+}
+
+.imges {
+    width: 6rem;
+    height: 4rem;
+  
+}
+
+.update-button,
+.delete-button {
+    background-color: black;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.update-button:hover,
+.delete-button:hover {
+    background-color: #45a049;
+}
+
+.DialogBox {
+   margin: 0rem;
+   
+}
+
+.Dialog1 {
+    margin: 1rem 1rem 1rem 1rem;
+    width: 35rem;
+    height: fit-content;
+}
+

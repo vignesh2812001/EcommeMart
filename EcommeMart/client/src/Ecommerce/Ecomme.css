@@ -1,0 +1,158 @@
+.admin-header1 {
+    margin: 0rem;
+    padding: 0rem;
+    
+}
+
+.admin-ul1 {
+    display: block;
+    background: rgb(245, 245, 245);
+    padding: 1rem;
+}
+
+.admin-buttons1 {
+    display: inline-block; 
+}
+
+.color {
+    border: 4px solid black;
+    box-shadow: 5px 5px 5px snow;
+}
+.user1 {
+   
+    display: inline-block;
+    margin-left: 10rem;
+    padding: 1rem;
+    border-radius: 3rem;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    box-shadow: 1px 1px 1px gainsboro;
+
+}
+
+.fauser {
+    margin-right: 1rem;
+    font-size: 1rem;
+}
+.search1 {
+    display: inline-block;
+}
+
+.input-search1 {
+    padding: 0.7rem;
+    border-radius: 2rem;
+    border: none;
+    margin-left: 10rem; 
+    text-align: initial;
+    width: 10rem;
+}
+
+.card-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5rem;
+  padding: 1rem;
+  margin: 2rem;
+  height: 18rem;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  padding: 1rem;
+  width: 14rem;
+  background-color: rgba(0, 0, 0, 0.836);
+  border-radius: 1rem;
+}
+
+.card {
+ 
+  position: relative; 
+}
+
+.image_container {
+
+  width: 100%; 
+  height: 8rem; 
+}
+
+.product-image {
+  
+  width: 100%; 
+  height: 100%; 
+  object-fit: fill; 
+  border-radius: 5px ;
+  box-shadow: 1px 1px 5px white;
+}
+
+
+.title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: white;
+  text-transform: capitalize;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-align: center;
+  
+}
+
+.description {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: white;
+  text-transform: capitalize;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  text-align: justify;
+
+}
+
+.action {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.price {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #6d28d9;
+  display: inline-block;
+}
+
+.addCart {
+  padding: 0.4rem 0.7rem;
+  background-color: orange;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+}
+
+.faCartPlus {
+    gap: 0.5rem;
+    margin-right:6px ;
+}
+
+.faCartPlus1 {
+    font-size: 4rem;
+    margin-left:4rem ;
+    color: red;
+    display: inline-block;
+
+}
+
+.ecomme {
+    display: inline-block;
+}
+
+.h1title {
+    font-family: cursive;
+    font-weight: bolder;
+    display: inline-block;
+}

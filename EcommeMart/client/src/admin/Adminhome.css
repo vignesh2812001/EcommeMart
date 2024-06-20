@@ -1,0 +1,131 @@
+
+.admin-header {
+    margin: 0rem;
+    padding: 0rem;
+}
+
+.admin-ul {
+    display: 100%;
+    background: rgb(245, 245, 245);
+    padding: 1rem;
+}
+
+.admin-li {
+    color: black;
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    padding: 0.5rem 3rem;
+}
+
+ .button2 {
+    border: none;
+    background-color: gray;
+    padding: 0.5rem 0.5rem ;
+    color: white;
+    border-radius: 5px;
+    text-align: start;
+    display: inline-block;
+    margin-left: 5rem;
+    margin-top: 1rem;
+}
+.admin-buttons {
+    display: inline-block;
+    float: right; 
+}
+
+.admin-button {
+    background-color: rgb(255, 98, 0);
+    padding: 0.5rem 2rem ;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    text-align: start;
+    font-size: 1rem;
+}
+
+.search {
+    display: inline-block;
+}
+
+.input-search {
+    padding: 0.7rem;
+    border-radius: 2rem;
+    border: none;
+    margin-left: 25rem;
+    text-align: initial;
+}
+
+.admin-content {
+    text-align: center;
+    font-weight: 300;
+    background-color: antiquewhite;
+    padding: 3rem;
+    margin-top: 0px;
+}
+
+.admin-title {
+    background-color: antiquewhite;
+}
+
+.admin-description {
+    background-color: antiquewhite;
+}
+
+.admin-add-catagory {
+    background-color: blue;
+    padding: 0.5rem 2rem ;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    text-align: start;
+    font-size: 1rem;
+    display: inline-block;
+    margin: 1rem 4rem 1rem 4rem;
+    cursor: pointer;
+}
+
+
+.admin-add-product{
+    background-color: blue;
+    padding: 0.5rem 2rem ;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    text-align: start;
+    font-size: 1rem;
+    display: inline-block;
+    margin: 1rem 4rem 1rem 4rem;
+}
+
+.list-user {
+    background-color: black;
+    padding: 0.5rem 2rem ;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    text-align: start;
+    font-size: 1rem;
+    display: inline-block;
+    margin: 1rem 4rem 1rem 4rem;
+}
+
+.admin-order {
+    background-color: black;
+    padding: 0.5rem 2rem ;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    text-align: start;
+    font-size: 1rem;
+    display: inline-block;
+    margin: 1rem 4rem 1rem 4rem;
+}
+
+.admin-control {
+    display: flex;
+    margin: 5rem 4rem 1rem 4rem;
+}
+.Dialog {
+    background-color: antiquewhite;
+}
