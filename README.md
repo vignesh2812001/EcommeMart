@@ -10,6 +10,9 @@ Getting Started
 **npx create-react-app . 
 npm install react-router-dom fontawesome axios
 npm start**
+**http://localhost:3000/**
+
+![image](https://github.com/vignesh2812001/EcommeMart/assets/57718276/1f806df1-2f17-4cfb-91aa-fb21cbfa468e)
 
 4) After installing dependencies, navigate to the server directory:
 **cd server**
@@ -26,7 +29,7 @@ npm start
 7) Before starting the server, create the database. Run the SQL script located at **client/src/createDatabase.sql** in MySQL Workbench.
 
 8) **Usage**
-Admin Panel: Access the admin panel at http://localhost:3000/admin-login
+Admin Panel: Access the admin panel at **http://localhost:3000/admin-login**
 
 **Credentials:**
 Username: admin
