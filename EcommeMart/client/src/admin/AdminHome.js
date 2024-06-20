@@ -34,9 +34,9 @@ function AdminHome() {
     }
     return(
     <>
-        <header className="admin-header">
+        <header className="admin-header5">
             <div className="admin-nav">
-                <ul className="admin-ul">
+                <ul className="admin-ul5">
                     <button className="admin-li button2" onClick={handleProduts}>show product</button>
                     <button className="admin-li button2">show users</button>
                     <button className="admin-li button2">orders</button>
