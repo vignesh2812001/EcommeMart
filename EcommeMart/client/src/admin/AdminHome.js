@@ -55,7 +55,7 @@ function AdminHome() {
                     <div  className="admin-catagories">
                         <button type="submit" className="admin-add-catagory" onClick={handleCatagory}>add Catagories</button>
                         <Dialog open={catagoryOpen} onClose={handleCatagoryClose} >
-                            <DialogContent className="Dialog" >
+                            <DialogContent className="Dialog6" >
                                 <AddCategory/>
                             </DialogContent>
                             <DialogActions>
